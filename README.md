@@ -1,2 +1,2 @@
 # hello-world
-This is for practicing GitHub Flow
+I'm deeply passionate about AI and data science, with a rich 9-month journey of enhancing AI models through training and rigorous analysis. My work involves tweaking models for better performance but also meticulously analyzing code for accuracy, ensuring that every piece of the puzzle fits perfectly for optimal outcomes. With a unique background in psychology, coding, and fine art, I approach problems with a blend of analytical rigor and creative insight, making complex concepts accessible and engaging.
